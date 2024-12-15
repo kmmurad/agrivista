@@ -1,0 +1,1003 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    font-family: "Montesrrat ", sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding:30px 60px;
+    align-items: center;
+}
+.header ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    font-size: 30px;
+}
+.loginbtn{
+    background-color:  #204E51;
+    border: none;
+    color: white;
+    border: 8px;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 22px;
+    margin-right:10px ;
+}
+.singbtn{
+
+    border: 2px solid white;
+    color: black;
+    border: 1px solid #204E51;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 20px;
+
+}
+.hero{
+    padding: 40px 100px ;
+    text-align: center;
+    background-color: coral;
+    height: 570px;
+    background-image: url("https://img.freepik.com/free-photo/african-man-harvesting-vegetables_23-2151441263.jpg?t=st=1729944780~exp=1729948380~hmac=b32d4691a6ef8cc203fd8526c17064fe59fcb8e75581be74a43383cc3b8b2564&w=740");
+    
+background-repeat: no-repeat;
+background-size: cover;
+box-shadow: blue;
+filter: brightness(0.7) saturate(0.9);
+
+}
+.hero h1{
+    font-size: 90px;
+    padding-top: 40px;
+    color: white;
+}
+.startbtn{
+    background-color:  #204E51;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    color: white;
+    border-radius: 8px;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 22px;
+    margin-right:10px ;
+    border-bottom-right-radius: 10px
+    ;
+
+}
+.learnbtn{
+    border: 2px solid white;
+    color: black;
+background-color: transparent;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 20px;
+    margin-top: 50px;
+    color: white;
+    
+}
+.hero p{
+    color: white;
+    width:590px;
+    padding:10px  300px;
+    
+}
+.passiotion{
+display: flex;
+justify-content: space-between;
+margin: 30px 150px;
+}
+.passion-right img{
+    width: 320px;
+    height: 320px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.button{
+    background-color:  #204E51;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    color: white;
+    border-radius: 8px;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 22px;
+    margin-right:10px ;
+    border-bottom-right-radius: 10px;
+    margin-top: 30px;
+    
+}
+.passion-left h1{
+    font-size: 50px;
+    color: rgb(136, 158, 136);
+}
+.passion-left p{
+    width: 580px;
+    padding-top: 20px;
+}
+
+.images{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 30px 60px;
+    text-align: center;
+}
+.image1 img{
+    width: 350px;
+    height: 450px;
+    border-radius: 16px;
+}
+.image2 img{
+    width: 350px;
+    height: 450px;
+    border-radius: 16px;
+}
+.image3 img{
+    width: 350px;
+    height: 450px;
+    margin-right: 150px;
+    border-radius: 16px;
+}
+.image1 p{
+    width: 200px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.image2 p{
+    width: 200px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.image3 p{
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.image1 h1{
+    padding-top: 20px;
+    padding-right: 160px;
+}
+.image2 h1{
+    padding-top: 20px;
+    padding-right: 160px;
+}
+.image3 h1{
+    padding-top: 20px;
+    padding-right: 110px;
+    width: 400px;
+}
+
+.macalow{
+    justify-content: center;
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    font-family: "Montesrrat ", sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding:30px 60px;
+    align-items: center;
+}
+.header ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    font-size: 30px;
+}
+.loginbtn{
+    background-color:  #204E51;
+    border: none;
+    color: white;
+    border: 8px;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 22px;
+    margin-right:10px ;
+}
+.singbtn{
+
+    border: 2px solid white;
+    color: black;
+    border: 1px solid #204E51;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 20px;
+
+}
+.hero{
+    padding: 40px 100px ;
+    text-align: center;
+    background-color: coral;
+    height: 570px;
+    background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://img.freepik.com/free-photo/african-man-harvesting-vegetables_23-2151441263.jpg?t=st=1729944780~exp=1729948380~hmac=b32d4691a6ef8cc203fd8526c17064fe59fcb8e75581be74a43383cc3b8b2564&w=740");
+    
+background-repeat: no-repeat;
+background-size: cover;
+box-shadow: blue;
+
+
+}
+.hero h1{
+    font-size: 90px;
+    padding-top: 40px;
+    color: white;
+}
+.startbtn{
+    background-color:  #204E51;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    color: white;
+    border-radius: 8px;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 22px;
+    margin-right:10px ;
+    border-bottom-right-radius: 10px
+    ;
+
+}
+.learnbtn{
+    border: 2px solid white;
+    color: black;
+background-color: transparent;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 20px;
+    margin-top: 50px;
+    color: white;
+    
+}
+.hero p{
+    color: white;
+    padding:10px  300px;
+    
+}
+.passiotion{
+display: flex;
+justify-content: space-between;
+margin: 100px 10px;
+position: relative;
+background-color: silver;
+height: 500px;
+width: 1100px;
+padding: 100px;
+}
+.passion-right img{
+    width: 320px;
+    height: 320px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+.passion-right{
+    position: relative;
+}
+.button{
+    background-color:  #204E51;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    color: white;
+    border-radius: 8px;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 22px;
+    margin-right:10px ;
+    border-bottom-right-radius: 10px;
+    margin-top: 30px;
+    
+}
+.passion-left h1{
+    font-size: 50px;
+    color: rgb(136, 158, 136);
+}
+.passion-left p{
+    width: 580px;
+    padding-top: 20px;
+}
+
+.images{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    gap: 20px;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 30px 60px;
+    text-align: center;
+    
+}
+.image1 img{
+    width: 350px;
+    height: 450px;
+    border-radius: 16px;
+}
+.image2 img{
+    width: 350px;
+    height: 450px;
+    border-radius: 16px;
+}
+.image3 img{
+    width: 350px;
+    height: 450px;
+    margin-right: 150px;
+    border-radius: 16px;
+}
+.image1 p{
+    width: 190px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 30px;
+}
+.image2 p{
+    width: 200px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.image3 p{
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.image1 h1{
+    padding-top: 20px;
+    padding-right: 160px;
+    padding-left: 30px;
+    width:240px;
+}
+.image2 h1{
+    padding-top: 20px;
+    padding-right: 160px;
+}
+.image3 h1{
+    padding-top: 20px;
+    padding-right: 110px;
+    width: 400px;
+}
+
+.macalow{
+    justify-content: center;
+    text-align: center;
+}
+.features-parent h1{
+
+    color: rgb(73, 231, 73);
+
+}
+.macalow p{
+    width:500px;
+    padding-left: 450px;
+    padding-top: 30px;
+}
+.macalow h1{
+    font-size: 70px;
+}
+ .image2.readmore{
+    padding: 12px 100px;
+    text-decoration: underline;
+    padding: 100px;
+    font-weight: bold;
+    margin: 20px 100px;
+}
+
+.features-parent h1{
+
+    color: rgb(73, 231, 73);
+
+}
+.macalow p{
+    
+    padding-left: 450px;
+    padding-top: 30px;
+}
+.macalow h1{
+    font-size: 70px;
+}
+ .image2.readmore{
+    padding: 12px 100px;
+    text-decoration: underline;
+    padding: 100px;
+    font-weight: bold;
+    margin: 20px 100px;
+}
+.passion-right h2{
+position: absolute;
+background-color: white;
+top: 325px;
+right: 70px;
+
+padding: 20px 30px;
+border-radius: 20px;
+
+
+}
+a{
+    margin-right: 250px;
+    padding-top: 200px;
+}
+.sustain{
+    margin-top: 700px;
+    
+    color: white;
+    padding-left: 90px ;
+    padding-top: 100px;
+    height: 700px;
+    text-align: center;
+    
+    background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://img.freepik.com/free-photo/african-man-harvesting-vegetables_23-2151441263.jpg?t=st=1729944780~exp=1729948380~hmac=b32d4691a6ef8cc203fd8526c17064fe59fcb8e75581be74a43383cc3b8b2564&w=740");
+;
+width: 100%;
+background-size: 100%;
+    background-repeat: no-repeat;
+}
+.sustain h1{
+    margin-bottom: 20px;
+}
+
+.benefet-parent{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 80px;
+
+}
+.benefet-left{
+    width: 400px;
+}
+.benefet-right {
+    width: 600px;
+    height: 600px ;
+    background-color: #204E51;
+
+}.benefet-left h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+
+}
+.benefet-left p{
+    margin-right: 40px 0px;
+    margin-bottom: 20px;
+}
+.icons{
+    display: flex;
+    
+    color: white;
+    gap: 30px;
+    margin-top: 90px;
+    
+}
+.icons i{
+    font-size: 50px;
+    margin-right: 10px;
+
+}
+
+.comment-section{
+    margin: 100px 80px;
+}
+.comment-section textarea{
+    width: 500px;
+    height: 150px;
+    margin-top: 35px;
+}
+.span-comment{
+    padding-top: 10px;
+}
+.placeholder{
+    
+    padding-top: 40px;
+    padding-left: 30px;
+    font-size: 30px;
+}
+.comment-section button{
+    background-color: #204E51;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
+.comment-section h1{
+    padding-left: 10px;
+    margin-top: 50px;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+
+}
+.title p{
+    font-size: 20px;
+    width: 700px;
+    margin-bottom: 30px;
+    margin-left: 340px;
+    margin-top: 20px;
+}
+.box{
+    width: 100%;
+    height: 350px;
+    background-color: #204E51;
+    border-radius: 30px;
+}
+.t-parent{
+    display: grid;
+    grid-template-columns: 100px 800px 100px ;
+    grid-template-rows: 100px 300px 100px;
+    gap: 10px;
+    justify-content: center;
+    color: #204E51;
+}
+.t-parent i{
+    font-size: 60px;
+    color: white;
+    border-radius: 50px;
+    margin-top: 170px;
+    background-color: red;
+    
+
+}
+.real-box i{
+    color: yellow;
+    background-color: transparent;
+    text-align: center;
+
+}
+.left-box img{
+    width: 200px;
+    height: 200px;
+    margin-top: 80px;
+    margin-left: 60px;
+    border-radius: 15px;
+}
+.box{
+    display: flex;
+}
+.right-box h1{
+    color: white;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.right-box h4{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 20px;
+    color: silver;
+}
+.right-box p{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 360px;
+}
+.right-box i{
+color: gold;
+background-color: transparent;
+font-size: 30px;
+padding: 0px;
+margin-top: 70px;
+margin-left: 30px;
+}
+
+
+#box1 i{
+    color: white;
+    background-color: white;
+}
+.footer{
+    background-color: #204E51;
+    width: 1510px;
+    height: 400px;
+    display: flex;
+    color: white;
+}
+.footer h1{
+    padding-top: 90px;
+    padding-left: 200px;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+.icons{
+margin-left: 200px;
+gap: 10px;
+
+
+
+}
+
+.footer-left i{
+    background-color: white;
+    color: #204E51;
+    
+}
+
+.footer p{
+width: 570px;
+    margin-left: 200px;
+    margin-top: 30px;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+#facebook{
+    padding: 4px;
+}
+#dribble{
+padding: 3px;
+}
+#insta{
+    padding: 4px;
+}
+#behance{
+    padding: 4px;
+    border-radius: 5px;
+}
+.list-page{
+    margin-top: 100px;
+    margin-left: 50px;
+    list-style-type: none
+}
+.list-About{
+    margin-top: 100px;
+    margin-left: 50px;
+    list-style: none;
+}
+.list-About ul{
+    list-style: none;
+    margin-top: 30px;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 90px;
+}
+.list-page ul{
+    list-style-type: none;
+    margin-top: 30px;
+    gap: 10px;
+    font-size: 25px;
+    margin-left: 100px;
+}
+.list-About h2{
+    font-size: 40px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    margin-left: 130px;
+}
+
+.list-page h2{
+    font-size: 40px;
+    margin-bottom: 30x;
+    margin-left: 130px;
+}
+.list-About ul li {
+    margin: 10px;
+}
+.list-page ul li {
+    margin: 8px;
+}
+
+
+    
+
+
+.header ul li:hover{
+    background-color: yellow;
+    transition: 0.5s;
+    border-radius: 10px;
+
+}
+
+.one1 {
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin: 20px 360px;
+}
+
+.one1 h1 {
+    font-size: 60px;
+
+}
+
+.service image {
+    width: 500px;
+    height: 600px;
+    border-radius: 20px;
+
+}
+
+.service {
+    display: flex;
+    margin-left: 30px;
+}
+
+.two2{
+    background-color: gainsboro;
+    border-radius: 15px;
+    margin: 20px 40px;
+   width: 300px;
+   height: 400px;
+   text-align: center;
+   padding: 20px;
+  
+}
+
+.two2 img {
+    width: 200px;
+    border-radius: 15px;
+
+}
+
+
+.three3{
+    background-color: gainsboro;
+    border-radius: 15px;
+    margin: 20px 40px;
+   width: 300px;
+   height: 400px;
+   text-align: center;
+   padding: 20px;
+  
+}
+
+.three3 img {
+    width: 200px;
+    border-radius: 15px;
+
+}
+
+.four4 {
+    background-color: gainsboro;
+    border-radius: 15px;
+    margin: 20px 40px;
+   width: 300px;
+   height: 400px;
+   text-align: center;
+   padding: 20px;
+  
+}
+
+.four4 img {
+    width: 200px;
+    border-radius: 15px;
+
+}
+
+
+.five5{
+    background-color: gainsboro;
+    border-radius: 15px;
+    margin: 20px 40px;
+   width: 300px;
+   height: 400px;
+   text-align: center;
+   padding: 20px;
+  
+}
+
+.five5 img {
+    width: 200px;
+    border-radius: 15px;
+
+}
+.bo{
+    color: #204E51;
+    background-color: white;
+}
+#box-d1{
+    
+    color: #204E51;
+    background-color: white;
+}
+
+@media screen and (max-width:600px){
+    .header ul{
+        display: none;
+    }
+
+    .buttons{
+        display: none;
+    }
+    .header i{
+        font-size: 50px;
+    }
+    .header{
+        padding: 25px;
+    }
+    .header h1{
+        font-size: 25px;
+    }
+    .hero h1{
+        font-size: 25px;
+    }
+    .hero {
+        margin: 0;
+        padding: 0;
+    }
+    .hero p{
+        padding: 10px;
+        color: white;
+        margin-right: 20px;
+    }
+    .startbtn{
+        margin-top: 30px;
+    }
+    .passiotion{
+        flex-direction: column;
+        padding: 20px;
+        height: 850px;
+        width: 350px;
+        background-color: transparent;
+    }
+    .passion-left h1{
+        font-size: 30px;
+    }
+    .passion-left,.passion-right{
+        width: 300px;
+    }
+    .passiotion p{
+        width: 300px;
+    }
+    .macalow p{
+        margin: 10px;
+        padding: 30px;
+        font-size: 15px;
+        width: 200px;
+    }
+    .macalow h1{
+        font-size: 30px;
+    }
+    .images{
+        flex-direction: column;
+        margin-bottom: 1900px;
+
+    }
+    .image1{
+        width: 30px;
+        height: 30px;
+    }
+    .sustain{
+        background-color: transparent;
+        background-size: cover;
+    }
+    .image1{
+        margin-top: 30px;
+    }
+    .image2{
+        margin-top: 30px;
+    }
+    .image3{
+        margin-top: 30px;
+    }
+    .benefet-parent{
+        flex-direction: column;
+        margin: 0px;
+        padding: 0px;
+    }
+    .benefet-left , .benefet-right{
+        width: 350px;
+    }
+    .benefet-righ{
+        padding: 0px;
+        width: 200px;
+        
+        margin-top: 20px;
+    }
+    .benefet-left h1{
+        font-size: 40px;
+    }
+    .benefet-left{
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .right-box{
+        padding: 0px;
+    }
+    .right-box{
+        padding: 0px;
+    }
+    .icons{
+        padding: 50px;
+        margin: 0px;
+    }
+    .t-parent{
+        grid-template-columns: 50px 270px 50px;
+    }
+    .box{
+        height: 200px;
+    }
+    .t-parent i{
+        font-size: 30px;
+        margin-top: 70px;
+    }
+    .box img{
+        width: 100px;
+        height: 100px;
+        margin-top: 20px;
+        padding: 0px;
+        margin-left: 20px;
+    }
+    #boxd1{
+        margin-right: 40px;
+        padding: 4px;
+    }
+    .right-box i{
+        font-size: 10px;
+        margin: 0px;
+        padding: 0px;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    .right-box h1{
+        font-size: 10px;
+        margin: 10px;
+    }
+    .right-box p{
+        font-size: 9px;
+        margin: 5px;
+        margin-right: 10px;
+        width: 140px;
+        padding: 00x;
+        margin-right: 30px;
+    }
+    .right-box h4{
+        margin: 4px;
+        font-size: 10px;
+
+    }
+    .title{
+        width: 100px;
+    }
+    .title h1{
+        font-size: 50px;
+        margin-left: 80px;
+        margin-top: 20px;
+    }
+    .title p{
+        width: 340px;
+        padding: 0px;
+        margin: 50px;
+    }
+    .one1{
+        font-size: 30px;
+        margin: 10px;
+        padding: 0px;
+    }
+    .one1 p{
+        font-size: 15px;
+        margin-left: 10px;
+    }
+    .service{
+        flex-direction: column;
+    }
+    .footer{
+        flex-direction: column;
+        height: 1300px;
+    }
+
+    .footer-left h1{
+        padding: 0px;
+        margin: 0px;
+        font-size: 40px;
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+    .footer-left p{
+        margin: 0px;
+        padding: 0px;
+        margin-left: 20px;
+        margin-top: 200x;
+        width: 400px;
+    }
+    
